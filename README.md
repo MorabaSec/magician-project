@@ -8,11 +8,11 @@ programming concepts through an interactive and creative program
 Python
 
 -How to use 
-clone or download this repository
-install python on your computer
-open the project in visual studio code
-run the python file
-follow the instructions displayed by the program
+Clone or download this repository
+Install python on your computer
+Open the project in visual studio code
+Run the python file
+Follow the instructions displayed by the program
 
 -Author
 MorabaSec | SOC Analyst
